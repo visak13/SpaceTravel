@@ -1,0 +1,20 @@
+# Unreal Engine generated directories (GitHub UnrealEngine.gitignore template).
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Do not ignore Config/ or Content/ or Source/.
+!Config/
+!Content/
+!Source/
