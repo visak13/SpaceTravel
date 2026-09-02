@@ -1,0 +1,13 @@
+{
+  "asset": "nebula_emission_2k.png",
+  "model": "gpt-image",
+  "prompt": "Use case: stylized-concept\nAsset type: seamless tileable emission-nebula texture for an Unreal Engine 5.8 background material and future volumetric-density source\nPrimary request: Create one square deep-space emission nebula texture: soft, layered, billowing interstellar gas with a restrained magenta and violet core palette transitioning through muted indigo into teal and cyan along cloud edges, set against near-black space. Add only a few slender brighter emission filaments and sparse tiny pinprick stars.\nStyle/medium: cinematic Hubble-like astrophotography, inspired by the physical color relationships and fine gaseous detail of Pillars of Creation and the Carina Nebula, but fully abstract, non-iconic, and without a recognizable hero formation\nComposition/framing: orthographic texture field with truly uniform 360-degree continuity; evenly distribute cloud density, detail, color energy, and local contrast across the full frame; every edge must wrap exactly to its opposite edge; no central subject, no dominant diagonal, no compositional border, no large empty quadrant, no isolated hotspot\nLighting/mood: deep, immersive, filmic, restrained highlights, rich shadow separation without crushed featureless regions\nColor palette: near-black blue-black space; dusty magenta and violet interior gas; desaturated teal/cyan rims; natural astrophotographic color grading, never fluorescent\nMaterials/textures: multiscale wispy vapor, translucent overlapping cloud strata, subtle particulate dust, a few fine filament strands, sparse subpixel-scale stars\nConstraints: seamless/tileable periodic texture on both X and Y axes; opposite edges must match in structure, luminance, and color; suitable for a visibly repeated 2×2 test; even local contrast across all quadrants; RGB image; no alpha; no text; no watermark\nAvoid: obvious seam, edge darkening, vignette, center glow, single blown-out blob, hero pillar, recognizable object, planet, galaxy disk, large stars, starburst, lens flare, neon saturation, hard posterization, black empty corners, noisy uniform starfield, borders",
+  "size": "2048x2048",
+  "quality": "high",
+  "output_sha256": "73b22b1d476e031954e391c67b06bf34f244e419eb2877b88a247f83bcbf096a",
+  "asset_variant_id": "nebula_emission_2k",
+  "run_id": "exec-aabcada2-19ba-4b2e-b9f4-27345b7eb252",
+  "thread_id": "01a06236-e3c4-76a1-852f-ebf163967559",
+  "created_utc": "2026-09-02T13:08:20.9336555Z",
+  "tool": "image_gen.imagegen"
+}
