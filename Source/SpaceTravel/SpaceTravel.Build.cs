@@ -13,9 +13,7 @@ public class SpaceTravel : ModuleRules
 			"Core",
 			"CoreUObject",
 			"Engine",
-			"InputCore",
-			"EnhancedInput",
-			"Niagara"
+			"InputCore"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
